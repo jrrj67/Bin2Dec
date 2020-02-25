@@ -3,6 +3,7 @@ session_start();
 
 $data = $_POST['data'];
 if (strpbrk($data, '23456789')) {
+    $_SESSION['error'] = 'Valor digitado inválido.';
     header('Location: ../index.php');
     die();
 }
