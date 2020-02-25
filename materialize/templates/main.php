@@ -8,7 +8,7 @@
                 <li><a href="https://www.linkedin.com/in/jos%C3%A9-ricardo-rocha-587157135/">My LinkedIn</a></li>
             </ul>
         </div>
-    </nav>
+    </nav><div class="row"><div class="row"></div></div>
     <ul class="sidenav" id="mobile-demo">
         <li><a href="https://github.com/jrrj67">My Github</a></li>
         <li><a href="https://www.linkedin.com/in/jos%C3%A9-ricardo-rocha-587157135/">My LinkedIn</a></li>
