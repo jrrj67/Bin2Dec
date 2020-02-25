@@ -15,7 +15,7 @@ require_once('materialize/templates/header.php');
                         <div class="card-content">
                             Digite um número binário:
                             <div class="input-field inline">
-                                <input type="number" name="data" autocomplete="off" required>
+                                <input type="number" name="data" autocomplete="off" required value="<?=$_SESSION['old']?>">
                                 <label>Número</label>
                                 <span class="helper-text spinner-red" data-error="wrong" data-success="right">
                                     <?php if(isset($_SESSION['error'])) {

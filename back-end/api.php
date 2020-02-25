@@ -18,6 +18,7 @@ function binaryToDecimal($data)
         $sum += end($arrayData) * pow(2, $i);
         array_pop($arrayData);
     }
+    $_SESSION['old'] = $data;
     $_SESSION['result'] = $sum;
 }
 
