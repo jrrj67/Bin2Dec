@@ -1,9 +1,6 @@
 <footer>
-    <div class="footer right hide-on-med-and-down">
-        <p>Ricardo Rocha®</p>
-    </div>
-    <div class="page-footer hide-on-med-and-up">
-        <div class="footer-copyright hide-on-med-and-up">
+    <div class="page-footer">
+        <div class="footer-copyright">
             <div class="container">
                 <div class="row right">
                     Ricardo Rocha®
